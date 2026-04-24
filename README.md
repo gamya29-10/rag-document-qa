@@ -108,7 +108,7 @@ rag-document-qa/
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/Pruthviss/rag-document-qa.git
+git clone https://github.com/gamya29-10/rag-document-qa.git
 cd rag-document-qa
 ```
 
