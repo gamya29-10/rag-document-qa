@@ -202,7 +202,7 @@ flan-t5-base is a sequence-to-sequence model designed for text2text-generation t
 
 **Pruthvi Shivanand Shegavi**
 Data Science Intern @ Global Quest Technologies, Bengaluru
-B.E Computer Science — Government Engineering College Majali, Karwar (2026)
+B.E Electronics and Communication — East West College Of Engineering,Yelahanka, Bangaluru-560065
 
 - LinkedIn: [https:www.linkedin.com/in/shree-gamya-r-164686316](www.linkedin.com/in/shree-gamya-r-164686316)
 - GitHub: [github.com/gamya29-10](https://github.com/gamya29-10)
